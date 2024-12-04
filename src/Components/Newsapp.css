@@ -51,7 +51,6 @@ nav ul{
 }
 .categoryBtn{
     display: flex;
-    /* align-items: center; */
     justify-content: center;
     gap:10px;
 }
